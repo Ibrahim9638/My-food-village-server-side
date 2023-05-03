@@ -1,0 +1,168 @@
+
+[
+    {
+        "id": 1,
+        "chef_name": "Jamal Khan",
+        "chef_id": 1,
+        "recipe_name": "Bhetki Macher Paturi",
+        "img_url": "https://www.linkpicture.com/q/1_1896.jpg",
+        "food_image": "https://www.linkpicture.com/q/1_262.jpeg",
+        "description": "A chef who specializes in making Bhetki Macher Paturi is likely to be a highly skilled and experienced professional with a deep understanding of traditional Bengali cuisine. They would have spent years perfecting their techniques and developing their own unique recipes for this dish.",
+        "yearsOfExperience": 25,  
+        "numberOfRecipes": 1000,  
+        "rating": 4.5,
+        "likes": 18000,
+        "total_ratings": 100,
+        "ingredients": [
+             "1. Bhetki fish fillets, ",
+            "2. Tbsp mustard paste, ",
+             "3. tsp turmeric powder, ",
+             "4. green chilies, chopped, ",
+            "5. cup grated coconut,",
+            "6. Salt to taste, ",
+            "7. Banana leaves"
+        ],
+        "directions": [
+            "Marinate the fish fillets with mustard paste, turmeric powder, chopped green", "chilies, grated coconut, and salt for 30 minutes.",
+            "Wrap each fish fillet in a banana leaf and secure it with a toothpick.",
+            "Heat a pan and place the wrapped fish fillets on it. Cover the pan and cook on low heat for 10-12 minutes on each side.",
+            "Serve hot with steamed rice.",
+            "Mishti Pulao (Sweet Rice Pilaf)"
+        ],
+        "dietary_info": "None"
+      },
+      {
+        "id": 2,
+        "chef_name": "Sherajul Islam",
+        "chef_id": 2,
+        "recipe_name": "Shorshe Ilish",
+        "img_url": "https://www.linkpicture.com/q/2_127.jpeg",
+        "food_image": "https://www.linkpicture.com/q/2_1430.jpg",
+        "description": "They have a deep understanding and appreciation of Bengali cuisine, particularly the use of spices and herbs. They know which ingredients to use to bring out the flavors of the fish and the sauce, and they know how to balance those flavors perfectly.",
+        "yearsOfExperience": 20,  
+        "numberOfRecipes": 500,  
+        "likes": 20000,
+        "rating": 4.8,
+        "total_ratings": 120,
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard oil",
+          "Mustard seeds",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "directions": [
+            "Clean and cut the hilsa fish into pieces. Marinate the fish with turmeric powder and salt for 10-15 minutes.",
+            "In a pan, heat mustard oil and add mustard seeds and green chilies. Let them splutter.",
+            "Add the marinated fish to the pan and cook for a few minutes.",
+            "Add mustard paste, turmeric powder, salt, and a little bit of water mix.",
+            "Serve hot with steamed rice."
+        ],
+        "dietary_info": "None"
+      },
+      {
+        "id": 3,
+        "chef_name": "Ripon Sb",
+        "chef_id": 3,
+        "recipe_name": "Cholar Dal",
+        "img_url": "https://www.linkpicture.com/q/3_1171.jpg",
+        "food_image": "https://www.linkpicture.com/q/3_1174.jpg",
+        "yearsOfExperience": 30,
+        "numberOfRecipes": 750, 
+        "rating": 4.1,
+        "total_ratings": 90,
+        "ingredients": [
+            "Bengal gram dal",
+            "Coconut",
+            "Cumin seeds",
+           "Bay leaves",
+            "Ginger"
+        ],
+        "directions": [
+            "Soak the chana dal (bengal gram dal) in water for 2 hours.",
+            "In a pressure cooker, heat some oil and add cumin seeds, bay leaves, and ginger.",
+            "Add the soaked chana dal to the pressure cooker along with some water and salt.", "Pressure cook for 2-3 whistles or until the dal is cooked.",
+            "In a separate pan, fry some grated coconut until it turns brown.",
+            "Add the fried coconut to the dal and mix well. Cook for another 5-7 minutes.",
+            "Serve hot with rice or roti"
+        ]
+      },
+      {
+        "id": 4,
+        "chef_name": "Yusuf Islam",
+        "chef_id": 4,
+        "recipe_name": "Aloo Posto",
+        "img_url": "https://www.linkpicture.com/q/4_227.jpg",
+        "food_image": "https://rb.gy/bxw65",
+        "yearsOfExperience": 15,  
+        "numberOfRecipes": 300, 
+        "rating": 4.8,
+        "total_ratings": 140,
+        "ingredients": [
+            "Potatoes",
+            "Poppy seeds",
+            "Green chilies",
+            "Mustard oil",
+            "Turmeric powder"
+        ],
+        "directions": [
+           " Peel and cut the potatoes into small pieces.",
+            "In a pan, heat some oil and add the poppy seeds. Fry them for a few minutes until they turn golden brown.",
+           " Grind the fried poppy seeds along with green chilies and a little bit of water to make a paste.",
+           " In the same pan, heat some oil and add the ground paste, turmeric powder, and salt. Mix well.",
+            "Add the cut potatoes to the pan and mix everything well. Add some water and let it cook for 10-12 minutes or until the potatoes are fully cooked.",
+            "Serve hot with rice or roti."
+        ]
+      },
+      {
+        "id": 5,
+        "chef_name": "Robin Das",
+        "chef_id": 5,
+        "recipe_name": "Kosha Mangsho",
+        "img_url": "https://www.linkpicture.com/q/5_270.jpg",
+        "food_image": "https://www.linkpicture.com/q/5_821.jpg",
+        "yearsOfExperience": 25, 
+        "numberOfRecipes": 600, 
+        "rating": 4.6,
+        "total_ratings": 120,
+        "ingredients": [
+            "Mutton",
+            "Yogurt",
+            "Ginger-garlic paste",
+            "Garam masala powder",
+            "Red chili powder"
+        ],
+        "directions": [
+            "Marinate the mutton with yogurt, ginger-garlic paste, garam masala powder, red chili powder, and salt. Let it rest for at least 2 hours.",
+            "In a pan, heat some oil and add the marinated mutton. Cook on low heat for 20-25 minutes or until the mutton is half-cooked.",
+           " Add some water and let it cook for another 20-25 minutes or until the mutton is fully cooked and tender.",
+            "Serve hot with steamed rice or roti."
+        ]
+      },
+      {
+        "id": 6,
+        "chef_name": "Rakib Hossain",
+        "chef_id":6,
+        "recipe_name": "Doi Maach",
+        "img_url": "https://www.linkpicture.com/q/7_419.jpg " ,
+        "food_image": "https://rb.gy/bxw65",
+        "yearsOfExperience": 20, 
+        "numberOfRecipes": 400,
+        "rating": 4.2,
+        "total_ratings": 70,
+        "ingredients": [
+            "Fish fillets",
+            "Yogurt",
+            "Mustard oil",
+           " Green chilies",
+            "Turmeric powder"
+        ],
+        "directions": [
+            "Clean and cut the fish fillets into pieces. Marinate with turmeric powder and salt for 10-15 minutes.",
+            "In a pan, heat some mustard oil and add the marinated fish pieces. Fry for a few minutes until the fish turns golden brown.",
+           " In a separate bowl, mix together yogurt, turmeric powder, salt, and a little bit of water to make a sauce.",
+            "Add the yogurt sauce to the pan with the fried fish and mix well. Cook for another 5-7 minutes or until the fish is fully cooked.",
+           " Serve hot with steamed rice."
+        ]
+      }
+]
